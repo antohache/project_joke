@@ -1,0 +1,17 @@
+@media screen and (max-width: 600px) {
+    .joke_joke {
+        width: 100%;
+        max-width: 400px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 5px;
+        box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.3);
+    }
+    img {
+        height: auto;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+}
